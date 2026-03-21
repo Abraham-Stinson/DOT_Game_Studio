@@ -72,3 +72,10 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+# 1. Önce Fab klasörünün içindeki ve alt klasörlerindeki HER ÞEYÝ yoksay
+Content/Fab/WinterForest/Materials
+Content/Fab/WinterForest/Textures
+
+
