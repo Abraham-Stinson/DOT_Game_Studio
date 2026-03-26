@@ -75,7 +75,7 @@ DerivedDataCache/*
 
 
 # 1. Fab WinterForest Materials and Textures has been blocked due to high storage
-Content/Fab/WinterForest/Materials
-Content/Fab/WinterForest/Textures
+#Content/Fab/WinterForest/Materials
+#Content/Fab/WinterForest/Textures
 
 
